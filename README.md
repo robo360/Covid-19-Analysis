@@ -2,7 +2,7 @@
 Analysis and Modeling of Covid-19 using Julia -- Work in progress 
 
 
-## Tasks
+## Tasks [Progress]
 - [x] Analysis 
 - [ ] Web Representation
 - [ ] Basic Modeling
